@@ -1,1 +1,2 @@
 # JavaScript-Repo
+# JavaScript Series 
